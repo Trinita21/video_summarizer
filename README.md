@@ -2,7 +2,7 @@
 
 <img width="1410" alt="Screenshot 2025-03-29 at 13 26 41" src="https://github.com/user-attachments/assets/a9aa60ae-fee8-47b4-a03d-2f74a849ed74" />
 
-![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-red?logo=streamlit)
+![Streamlit](https://img.shields.io/badge/Streamlit-red?logo=streamlit)
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
